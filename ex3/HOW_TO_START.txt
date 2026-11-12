@@ -1,0 +1,7 @@
+1. python -m pip install requests
+
+2. ollama list
+
+3. ollama pull llama3.2
+
+4. python main.py
